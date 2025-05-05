@@ -1,0 +1,28 @@
+INFO:root:New request: name='ben' path='/media' filename='test' description='test'
+INFO:root:Approved request ID 1
+INFO:root:Denied request ID 1. Simulating email.
+INFO:root:New request: name='ben' path='/media' filename='twat' description='twat'
+INFO:root:Denied request ID 1. Simulating email.
+INFO:root:New request: name='ben' path='/media' filename='test' description='test'
+INFO:root:Approved request ID 1
+INFO:root:Denied request ID 1. Simulating email.
+INFO:root:Approved request ID 1
+INFO:root:New request: name='test' path='test' filename='test' description='test'
+INFO:root:Denied request ID 1. Simulating email.
+INFO:root:Approved request ID 1
+INFO:root:New request: name='ben' path='/media' filename='test' description='test'
+INFO:root:New request: name='ben' path='/media' filename='tret' description='teste'
+INFO:root:Approved request ID 1
+INFO:root:Approved request ID 1
+INFO:root:Denied request ID 1
+INFO:root:Denied request ID 1
+INFO:root:Denied request ID 1
+INFO:root:Denied request ID 1
+INFO:root:Denied request ID 1
+INFO:root:Denied request ID 1
+INFO:root:Approved request ID 1
+INFO:root:New request: name='asd' path='asd' filename='asd' description='asd'
+INFO:root:Denied request ID 1
+INFO:root:Denied request ID 1
+INFO:root:Approved request ID 2
+INFO:root:Denied request ID 2

@@ -1,0 +1,24 @@
+{
+  "drive_mappings": {
+    "P:": "/mnt/disconnected_drive"
+  },
+  "group_destinations": {
+    "DefaultGroup": "/mnt/output"
+  },
+  "email_info": {
+    "smtp_server": "smtp.yourdomain.com",
+    "smtp_port": 587,
+    "smtp_user": "noreply@yourdomain.com",
+    "smtp_password": "your-smtp-password",
+    "from": "noreply@yourdomain.com",
+    "subject": "Your request has been denied",
+    "body": "Hello,\n\nWe regret to inform you that your request has been denied.\n\nRegards,\nIT Department"
+  },
+  "ldap": {
+    "server_uri": "ldap://your-ldap-server",
+    "bind_dn": "CN=ldap-reader,OU=Users,DC=yourdomain,DC=com",
+    "bind_password": "ldap-reader-password",
+    "base_dn": "OU=Users,DC=yourdomain,DC=com",
+    "group_dn": "CN=ReviewGroup,OU=Groups,DC=yourdomain,DC=com"
+  }
+}
